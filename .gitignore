@@ -1,0 +1,47 @@
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+
+target/*
+.idea/*
+/src/main/resources/UD1/FileCopy.txtcopia.txt
+/src/main/resources/UD1/FileCopy.jpgcopia.jpg
+/src/main/resources/UD1/MergeTexts/mergeado.txt
+/src/main/resources/UD1/ModulosDAM/modulos.dat
+/src/main/resources/UD1/ModulosDAM/modulos_serial.dat
+/src/main/resources/UD1/ModulosDAM/modulos.csv
+/src/main/resources/UD1/properties/propis.properties
+/UD0/PecesLinterna/src/pecesLinterna.zip
+/src/main/resources/UD1/properties/propis.xml
+/UD0/SubmarineProblem/src/Submarino.zip
+/app.log
+/target/
+/src/main/resources/UD1/ACTIVIDAD3_copia.txt
+/src/main/resources/UD1/xml/ejemploEscribe.xml
+/src/main/java/es/cheste/UD1/resources/languages/labels_es_ca.properties
+/src/main/java/es/cheste/UD1/teoria/Properties.pdf
+/src/main/java/es/cheste/UD1/teoria/XML.pdf
+/src/main/resources/UD1/json/concesionario_generado_gson.json
+/src/main/java/es/cheste/UD1/teoria/Json.pdf
+/src/main/resources/UD1/properties/wp.properties
+/src/main/resources/UD1/properties/wp.xml
+/src/main/resources/UD1/Ficheros_unidos.txt
+/src/main/resources/UD1/mergeado.txt
+/src/main/resources/UD1/Modulos_Angel.xml
+/src/main/resources/UD1/sinNumerosLinea.txt
+/src/main/resources/UD1/SW.xml

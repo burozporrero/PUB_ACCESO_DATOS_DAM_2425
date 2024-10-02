@@ -1,0 +1,25 @@
+{
+  "concesionario" : {
+    "coches" : [ {
+      "matricula" : "1111AAA",
+      "marca" : "AUDI",
+      "precio" : 30000.0,
+      "extras" : [ "ABS", "Airbag", "Climatizador" ]
+    }, {
+      "matricula" : "2222BBB",
+      "marca" : "SEAT",
+      "precio" : 10000.0,
+      "extras" : [ "ABS", "Airbag", "Climatizador" ]
+    }, {
+      "matricula" : "3333CCC",
+      "marca" : "BMW",
+      "precio" : 20000.0,
+      "extras" : [ "ABS", "Airbag", "Climatizador" ]
+    }, {
+      "matricula" : "4444DDD",
+      "marca" : "TOYOTA",
+      "precio" : 10000.0,
+      "extras" : [ "ABS", "Airbag", "Climatizador" ]
+    } ]
+  }
+}
