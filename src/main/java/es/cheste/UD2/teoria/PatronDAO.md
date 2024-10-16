@@ -19,7 +19,8 @@
 
 ## ¿Qué es el Patrón DAO?
 
-El **Patrón DAO** es un patrón de diseño que proporciona una abstracción entre la aplicación y la fuente de datos. Permite separar la lógica de negocio de los detalles de acceso a datos, lo que facilita el mantenimiento y la escalabilidad de la aplicación.
+El **Patrón DAO (Data Access Object)** es un patrón de diseño que proporciona una abstracción entre la aplicación y la fuente de datos. 
+Permite separar la lógica de negocio de los detalles de acceso a datos, lo que facilita el mantenimiento y la escalabilidad de la aplicación.
 
 ## Componentes del Patrón DAO
 
